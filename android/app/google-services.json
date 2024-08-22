@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1045846468722",
+    "project_id": "handcradt",
+    "storage_bucket": "handcradt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045846468722:android:34347721b68373f9c97aeb",
+        "android_client_info": {
+          "package_name": "com.kquesada80309.agapathusproyectov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045846468722-8uu0g90t80914bf1bgv2kdregabk0j4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiw9DNx9jmGg5SbcbcvXFIEPLwW-959nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045846468722-8uu0g90t80914bf1bgv2kdregabk0j4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045846468722-c70oarmfs59k6opov31hpm9usdrpkos5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kquesada80309.agapathusproyectov"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
